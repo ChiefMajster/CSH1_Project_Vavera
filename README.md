@@ -3,7 +3,7 @@
 Projekt na téma zadání a, databázové aplikace
 Projekt s názvem: Lyžařské středisko
 
-- sledované entity - Areál, Sjezdovka, Vlek, Obtížnost, Restaurace, Parkoviště (rozšířitélné)
+- sledované entity - Areál, Sjezdovka, Vlek, Obtížnost, Restaurace, Parkoviště (rozšířitelné)
 - Sjezdovka může mít přiřazen jeden nebo více vleků  
 - Každá sjezdovka má definovanou obtížnost (např. modrá, červená, černá)  
 - Areál obsahuje více sjezdovek, restaurací a parkovišť  
