@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\",
+  "WorkspaceRootPath": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|d:\\visualstudioproject\\sem_csharp_vavera\\sem_csharp_vavera\\skiarealmanager\\skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|d:\\visualstudioproject\\sem_csharp_vavera\\.vs\\sem_csharp_vavera\\skiarealmanager\\skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\skiarealmanager\\modely\\vlek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\modely\\vlek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|d:\\visualstudioproject\\sem_csharp_vavera\\.vs\\sem_csharp_vavera\\skiarealmanager\\skiarealmanager\\modely\\typvleku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\modely\\typvleku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|d:\\visualstudioproject\\sem_csharp_vavera\\.vs\\sem_csharp_vavera\\skiarealmanager\\skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\skiarealmanager\\modely\\obtiznost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\modely\\obtiznost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\skiarealmanager\\data\\spravadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\data\\spravadat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\skiarealmanager\\modely\\sjezdovka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3D12B71-CE50-4D7B-99CB-D12DD119D11F}|SkiArealManager\\SkiArealManager.csproj|solutionrelative:skiarealmanager\\modely\\sjezdovka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,8 +25,18 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TypVleku.cs",
+              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\TypVleku.cs",
+              "RelativeDocumentMoniker": "SkiArealManager\\Modely\\TypVleku.cs",
+              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\TypVleku.cs",
+              "RelativeToolTip": "SkiArealManager\\Modely\\TypVleku.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T15:54:34.18Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -48,77 +46,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
+              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
               "RelativeDocumentMoniker": "SkiArealManager\\Form1.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
+              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
               "RelativeToolTip": "SkiArealManager\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCsAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:42:56.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sjezdovka.cs",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Sjezdovka.cs",
-              "RelativeDocumentMoniker": "SkiArealManager\\Modely\\Sjezdovka.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Sjezdovka.cs",
-              "RelativeToolTip": "SkiArealManager\\Modely\\Sjezdovka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T13:13:16.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SpravaDat.cs",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Data\\SpravaDat.cs",
-              "RelativeDocumentMoniker": "SkiArealManager\\Data\\SpravaDat.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Data\\SpravaDat.cs",
-              "RelativeToolTip": "SkiArealManager\\Data\\SpravaDat.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T14:05:15.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Obtiznost.cs",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Obtiznost.cs",
-              "RelativeDocumentMoniker": "SkiArealManager\\Modely\\Obtiznost.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Obtiznost.cs",
-              "RelativeToolTip": "SkiArealManager\\Modely\\Obtiznost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T13:57:09.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Vlek.cs",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Vlek.cs",
-              "RelativeDocumentMoniker": "SkiArealManager\\Modely\\Vlek.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Modely\\Vlek.cs",
-              "RelativeToolTip": "SkiArealManager\\Modely\\Vlek.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T13:15:47.986Z",
+              "WhenOpened": "2026-06-03T16:01:43.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs [N\u00E1vrh]",
-              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
+              "DocumentMoniker": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs",
               "RelativeDocumentMoniker": "SkiArealManager\\Form1.cs",
-              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs [N\u00E1vrh]",
+              "ToolTip": "D:\\VisualStudioProject\\Sem_Csharp_Vavera\\.vs\\Sem_Csharp_Vavera\\SkiArealManager\\SkiArealManager\\Form1.cs [N\u00E1vrh]",
               "RelativeToolTip": "SkiArealManager\\Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T12:39:47.347Z",
+              "WhenOpened": "2026-06-03T16:01:10.158Z",
               "EditorCaption": " [N\u00E1vrh]"
             }
           ]

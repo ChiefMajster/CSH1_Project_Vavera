@@ -84,6 +84,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Modely\TypVleku.cs" />
     <Compile Include="Modely\Obtiznost.cs" />
     <Compile Include="Modely\Sjezdovka.cs" />
     <Compile Include="Modely\Vlek.cs" />

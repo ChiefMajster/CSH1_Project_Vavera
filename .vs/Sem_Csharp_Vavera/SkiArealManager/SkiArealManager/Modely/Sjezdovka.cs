@@ -12,7 +12,7 @@ namespace SkiArealManager.Modely
 
         public int Delka { get; set; }
 
-        public List<Vlek> Vleky = new List<Vlek>();
+        public List<Vlek> Vleky { get; set; } = new List<Vlek>();
 
         public Sjezdovka(int id, string nazev, Obtiznost obtiznost, int delka)
         {
@@ -21,6 +21,8 @@ namespace SkiArealManager.Modely
             Obtiznost = obtiznost;
             Delka = delka;
         }
+
+        public Sjezdovka() { }
 
         public override string ToString()
         {
